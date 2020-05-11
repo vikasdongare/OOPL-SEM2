@@ -1,0 +1,2 @@
+# OOPL-SEM2
+All the assignments OOPL SEM2 of CSE KKWIEER,NASHIK
